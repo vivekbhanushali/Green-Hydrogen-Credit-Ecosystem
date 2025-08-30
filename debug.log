@@ -1,0 +1,87 @@
+[2025-08-28 20:54:00] Health check endpoint called
+[2025-08-28 20:58:28] Health check endpoint called
+[2025-08-28 20:58:39] Health check endpoint called
+[2025-08-28 20:58:56] Login endpoint called
+[2025-08-28 20:58:56] Login attempt with data: {'username': '240173111010', 'email': 'viveklalwani36@gmail.com', 'password': '12345678', 'role': 'buyer'}
+[2025-08-28 20:58:56] Found user: 240173111010 with role buyer
+[2025-08-28 20:58:56] Password match: True
+[2025-08-28 20:58:56] Login successful for user: 240173111010
+[2025-08-28 20:59:50] Login endpoint called
+[2025-08-28 20:59:50] Login attempt with data: {'username': '240173111010', 'password': '12345678', 'role': 'buyer'}
+[2025-08-28 20:59:50] Found user: 240173111010 with role buyer
+[2025-08-28 20:59:50] Password match: True
+[2025-08-28 20:59:50] Login successful for user: 240173111010
+[2025-08-28 21:00:34] Login endpoint called
+[2025-08-28 21:00:34] Login attempt with data: {'username': 'test_admin', 'password': 'sepolia', 'role': 'NGO'}
+[2025-08-28 21:00:34] Found user: test_admin with role NGO
+[2025-08-28 21:00:34] Password match: True
+[2025-08-28 21:00:34] Login successful for user: test_admin
+[2025-08-28 21:14:08] Health check endpoint called
+[2025-08-28 21:14:32] Health check endpoint called
+[2025-08-28 21:15:17] Login endpoint called
+[2025-08-28 21:15:17] Login attempt with data: {'username': 'test_buyer', 'password': 'sepolia', 'role': 'buyer'}
+[2025-08-28 21:15:17] Found user: test_buyer with role buyer
+[2025-08-28 21:15:17] Password match: True
+[2025-08-28 21:15:18] Login successful for user: test_buyer
+[2025-08-28 21:17:28] Login endpoint called
+[2025-08-28 21:17:28] Login attempt with data: {'username': 'test_admin', 'password': 'sepolia', 'role': 'NGO'}
+[2025-08-28 21:17:28] Found user: test_admin with role NGO
+[2025-08-28 21:17:28] Password match: True
+[2025-08-28 21:17:28] Login successful for user: test_admin
+[2025-08-28 21:17:34] Login endpoint called
+[2025-08-28 21:17:34] Login attempt with data: {'username': 'test_buyer', 'password': 'sepolia', 'role': 'buyer'}
+[2025-08-28 21:17:34] Found user: test_buyer with role buyer
+[2025-08-28 21:17:35] Password match: True
+[2025-08-28 21:17:35] Login successful for user: test_buyer
+[2025-08-28 21:46:29] Health check endpoint called
+[2025-08-28 21:47:02] Health check endpoint called
+[2025-08-28 21:52:49] Health check endpoint called
+[2025-08-28 21:56:56] Health check endpoint called
+[2025-08-28 21:58:13] Health check endpoint called
+[2025-08-28 21:58:15] Health check endpoint called
+[2025-08-28 22:01:03] Health check endpoint called
+[2025-08-28 22:02:05] Health check endpoint called
+[2025-08-28 22:02:20] Health check endpoint called
+[2025-08-28 22:02:30] Health check endpoint called
+[2025-08-28 22:02:31] Health check endpoint called
+[2025-08-28 22:02:48] Health check endpoint called
+[2025-08-28 22:03:00] Health check endpoint called
+[2025-08-28 22:04:06] Health check endpoint called
+[2025-08-28 22:05:10] Health check endpoint called
+[2025-08-28 22:05:59] Health check endpoint called
+[2025-08-28 22:08:07] Health check endpoint called
+[2025-08-28 22:11:21] Health check endpoint called
+[2025-08-28 22:12:41] Health check endpoint called
+[2025-08-28 22:13:59] Health check endpoint called
+[2025-08-28 22:14:39] Health check endpoint called
+[2025-08-28 22:37:54] Health check endpoint called
+[2025-08-28 22:38:11] Login endpoint called
+[2025-08-28 22:38:11] Login attempt with data: {'username': 'test_admin', 'password': 'sepolia', 'role': 'NGO'}
+[2025-08-28 22:38:11] Found user: test_admin with role NGO
+[2025-08-28 22:38:11] Password match: True
+[2025-08-28 22:38:11] Login successful for user: test_admin
+[2025-08-28 22:50:23] Login endpoint called
+[2025-08-28 22:50:23] Login attempt with data: {'username': 'test_buyer', 'password': 'sepolia', 'role': 'buyer'}
+[2025-08-28 22:50:23] Found user: test_buyer with role buyer
+[2025-08-28 22:50:23] Password match: True
+[2025-08-28 22:50:23] Login successful for user: test_buyer
+[2025-08-29 09:56:55] Health check endpoint called
+[2025-08-29 10:18:31] Login endpoint called
+[2025-08-29 10:18:31] Login attempt with data: {'username': 'test_buyer', 'password': 'sepolia', 'role': 'buyer'}
+[2025-08-29 10:18:31] Found user: test_buyer with role buyer
+[2025-08-29 10:18:31] Password match: True
+[2025-08-29 10:18:31] Login successful for user: test_buyer
+[2025-08-29 10:20:10] Login endpoint called
+[2025-08-29 10:20:10] Login attempt with data: {'username': 'test_admin', 'password': 'sepolia', 'role': 'NGO'}
+[2025-08-29 10:20:10] Found user: test_admin with role NGO
+[2025-08-29 10:20:10] Password match: True
+[2025-08-29 10:20:10] Login successful for user: test_admin
+[2025-08-29 11:10:10] Health check endpoint called
+[2025-08-29 11:10:26] Health check endpoint called
+[2025-08-29 11:12:26] Health check endpoint called
+[2025-08-29 11:13:07] Health check endpoint called
+[2025-08-29 16:13:17] Login endpoint called
+[2025-08-29 16:13:17] Login attempt with data: {'username': 'test_buyer', 'password': 'sepolia', 'role': 'buyer'}
+[2025-08-29 16:13:17] Found user: test_buyer with role buyer
+[2025-08-29 16:13:18] Password match: True
+[2025-08-29 16:13:18] Login successful for user: test_buyer
